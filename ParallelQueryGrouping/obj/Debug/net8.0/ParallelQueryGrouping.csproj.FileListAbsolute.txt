@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\ParallelQueryGrouping\bin\Debug\net8.0\ParallelQueryGrouping.exe
+C:\Users\48571\source\repos\ParallelQueryGrouping\bin\Debug\net8.0\ParallelQueryGrouping.deps.json
+C:\Users\48571\source\repos\ParallelQueryGrouping\bin\Debug\net8.0\ParallelQueryGrouping.runtimeconfig.json
+C:\Users\48571\source\repos\ParallelQueryGrouping\bin\Debug\net8.0\ParallelQueryGrouping.dll
+C:\Users\48571\source\repos\ParallelQueryGrouping\bin\Debug\net8.0\ParallelQueryGrouping.pdb
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ParallelQueryGrouping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ParallelQueryGrouping.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ParallelQueryGrouping.AssemblyInfo.cs
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ParallelQueryGrouping.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ParallelQueryGrouping.dll
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\refint\ParallelQueryGrouping.dll
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ParallelQueryGrouping.pdb
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ParallelQueryGrouping.genruntimeconfig.cache
+C:\Users\48571\source\repos\ParallelQueryGrouping\obj\Debug\net8.0\ref\ParallelQueryGrouping.dll
